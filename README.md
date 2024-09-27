@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Tor-Håkon</h1>
 <h3>An eager front-end development student from Valdres, Norway.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- 🌱 I’m currently learning **HTML, CSS, CSS Frameworks, Vanilla JS and React**
 
-- 👨‍💻 All of my projects are available at [https://thbergseng.netlify.app/](https://thbergseng.netlify.app/)
+[- 👨‍💻 All of my projects are available at [https://thbergseng.netlify.app/](https://thbergseng.netlify.app/)](url)
 
 - 📫 How to reach me **thbergseng@gmail.com**
 
