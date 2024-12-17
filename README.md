@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, SASS, SCSS, Vanilla JS and React**
 
-- 👨‍💻 All of my projects are available at [https://thbergseng.netlify.app/](https://thbergseng.netlify.app/)
-
+- 👨‍💻 All of my projects are available at https://thbergseng-portfolio-2.netlify.app/
+  
 - 📫 How to reach me **thbergseng@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
